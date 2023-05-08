@@ -1,0 +1,6 @@
+## create the enviornment
+venv/
+.eggs/
+*.egg-info/
+.installed.cfg
+*.egg
